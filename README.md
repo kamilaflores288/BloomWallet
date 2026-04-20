@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+# BloomWallet 🌸🌸
+
+## Team Members
+- Kamila
+- Sheva 
+- Samantha
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -13,8 +18,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-   npx expo start
+   npx expo start or npm run start
    ```
+
 
 In the output, you'll find options to open the app in a
 
@@ -24,6 +30,9 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+# you can use any name or mail for the log in
+
 
 ## Get a fresh project
 

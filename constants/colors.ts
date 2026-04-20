@@ -1,0 +1,33 @@
+export const PROFILE_COLORS = [
+  { id: 'rosa',    hex: '#F0447A', label: 'Rosa'    },
+  { id: 'lila',    hex: '#9B6FE8', label: 'Lila'    },
+  { id: 'azul',    hex: '#4A90E2', label: 'Azul'    },
+  { id: 'verde',   hex: '#43B89C', label: 'Verde'   },
+  { id: 'menta',   hex: '#56C596', label: 'Menta'   },
+  { id: 'naranja', hex: '#FF7F5E', label: 'Naranja' },
+  { id: 'dorado',  hex: '#FFB93A', label: 'Dorado'  },
+  { id: 'coral',   hex: '#FF6B8A', label: 'Coral'   },
+] as const;
+
+export const C = {
+  pink:        '#F0447A',
+  pinkLight:   '#FFE4EF',
+  pinkPill:    '#F5A8C5',
+  green:       '#4CAF82',
+  greenLight:  '#E6F7F0',
+  yellow:      '#F5A623',
+  yellowLight: '#FFF4E0',
+  blueLight:   '#E8F4FF',
+  purple:      '#9B6FE8',
+  purpleLight: '#EDE5FF',
+  bg:          '#FFFFFF',
+  cardBg:      '#F9F3EC',
+  text:        '#1A1A2E',
+  textMid:     '#444444',
+  muted:       '#999999',
+  border:      '#F0E8E8',
+  rxl:  28,
+  rlg:  20,
+  rmd:  14,
+  rsm:  10,
+} as const;
